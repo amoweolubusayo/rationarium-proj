@@ -1,16 +1,14 @@
-{
-    "addresses": [
-        "tz1NEBRYxFE9KMPNy2HJNUAZ2bbLbjtQ91J8",
-        "tz2SqfrTDjLM4rL9JhJ3KugQgVg8gSkYQzwD",
-        "tz1UGQq3g45AF37dNJ3eWUL4n3piWqZY3oFG",
-        "tz2WDe3x84oMS1ydB9tCdTGoUCY7tA7NWGPS",
-        "tz2Ax92L9waQJv6gPr67Kax6ib5xTrKgb56P",
-        "tz1WW2tMMDaGPq4aPN4DxeK21FigaXhfX7qg",
-        "tz2B4jfT1Vbe8uhFT38A89EkS9AucZixvFt5",
-        "tz1iF1hfYJAmtEQC3Y8qYsTrhuQ49E1BGEgi",
-        "tz2SWmNufPRGNFL94dG6BZ8FsFUTPeDdu9RT",
-        "tz1a5Cq7CeVHUKh7hTy4QiDTpAc4G3SmfqxC",
-        "tz1TUathL8XvXpGVsyHYSjBDVp5PzjmkWTu8",
-        "tz29XStgsP3Cs54ayM1qKY1zBe4fitbcD4zB"
-    ]
-}
+[
+    "tz1NEBRYxFE9KMPNy2HJNUAZ2bbLbjtQ91J8",
+    "tz2SqfrTDjLM4rL9JhJ3KugQgVg8gSkYQzwD",
+    "tz1UGQq3g45AF37dNJ3eWUL4n3piWqZY3oFG",
+    "tz2WDe3x84oMS1ydB9tCdTGoUCY7tA7NWGPS",
+    "tz2Ax92L9waQJv6gPr67Kax6ib5xTrKgb56P",
+    "tz1WW2tMMDaGPq4aPN4DxeK21FigaXhfX7qg",
+    "tz2B4jfT1Vbe8uhFT38A89EkS9AucZixvFt5",
+    "tz1iF1hfYJAmtEQC3Y8qYsTrhuQ49E1BGEgi",
+    "tz2SWmNufPRGNFL94dG6BZ8FsFUTPeDdu9RT",
+    "tz1a5Cq7CeVHUKh7hTy4QiDTpAc4G3SmfqxC",
+    "tz1TUathL8XvXpGVsyHYSjBDVp5PzjmkWTu8",
+    "tz29XStgsP3Cs54ayM1qKY1zBe4fitbcD4zB"
+]
